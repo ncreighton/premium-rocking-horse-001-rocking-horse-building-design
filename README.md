@@ -1,0 +1,2 @@
+# premium-rocking-horse-001-rocking-horse-building-design
+The rocking-horse-building tool you'd build yourself — if you had the time.  Fully documented: every section explained so you know exactly what to customize. Pre-built databases, views, and formula fields — ready to duplicate and use.  ## What's Included  - Rocking Horse Building Design Log — fully configured and ready to use - Pre-built databases
